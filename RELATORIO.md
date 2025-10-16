@@ -12,11 +12,33 @@ estou enviando por git porém havia cogitado enviar diretamente pelo postgreSQL 
 **Objetivo:** Identificar as categorias de conteúdo mais populares.
 **Resultado (Exemplo):**
 
-| genero | total_horas_assistidas |
-| :--- | :--- |
-| Drama | 50000 |
-| Humor | 42000 |
-| Horror | 35000 |
+# 📺 Ranking de Audiência Total por Gênero
+
+| Gênero       | Total de Horas Assistidas |
+|--------------|----------------------------|
+| Adventure    | 444.194                    |
+| Fantasy      | 483.378                    |
+| Children     | 484.902                    |
+| Drama        | 486.350                    |
+| Horror       | 488.962                    |
+| Sci-Fi       | 505.350                    |
+| Nonfiction   | 505.766                    |
+| Humor        | 509.230                    |
+| Mistery      | 510.568                    |
+| Romance      | 521.498                    |
+
+---
+
+## 📊 Observações
+
+- 🥇 **Gênero mais assistido:** *Romance* — **521.498 horas**.  
+- 🧠 **Mistery**, *Humor* e *Nonfiction* também apresentam altos números de audiência.  
+- 🧒 *Adventure* é o gênero com menor total de horas assistidas.  
+- A diferença entre o gênero mais assistido (*Romance*) e o menos assistido (*Adventure*) é de **77.304 horas**.
+
+
+
+
 
 ---
 
