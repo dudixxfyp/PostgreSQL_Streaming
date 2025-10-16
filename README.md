@@ -5,7 +5,7 @@ Este repositório contém a lógica SQL para os relatórios diários de otimiza�
 ---
 
 ## 1. Relatório: Gêneros Mais Vistos
-*Código:* [sql/01_relatorio_generos.sql](sql/01_relatorio_generos.sql)
+*Código:* [sql/relatorio_generos.sql](sql/relatorio_generos.sql)
 
 **Objetivo:** Identificar as categorias de conteúdo mais populares.
 **Resultado (Exemplo):**
