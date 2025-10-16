@@ -56,7 +56,7 @@ retorno:
 
 
 ## 4. Otimização de Rede: Pico de Acesso por Gênero
-*Código:* [sql/04_pico_acesso_por_genero.sql](sql/04_pico_acesso_por_genero.sql)
+*Código:* [sql/pico_por_genero.sql](sql/pico_por_genero.sql)
 
 a ideia dessa implementação de melhoria surgiu no ambito de criar uma tabela auxiliar (ou View) que calcule o horário de pico de usuários distintos para cada gênero. Depois podemos usar essa tabela para consultar qual deve ser a capacidade de rede naquele horário.Isso garante que, quando os usuários buscarem um conteúdo específico no horário de maior demanda, o risco de buffering será minimizado.
 
