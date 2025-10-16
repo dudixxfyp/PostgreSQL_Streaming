@@ -1,6 +1,8 @@
 # Projeto: Relatórios de Otimização de Conteúdo (PostgreSQL)
 
 Este repositório contém a lógica SQL para os relatórios diários de otimização de conteúdo e infraestrutura.
+O BANCO DE DADOS SQL DE MINHA PREFERENCIA FOI O POSTGRESQL porém também poderia ter optado por dbeaver.
+estou enviando por git porém havia cogitado enviar diretamente pelo postgreSQL Looker studio mas não sabia como seria recebido por vocês então optei pela forma mais comum e dinamica
 
 ---
 
@@ -114,7 +116,4 @@ compartilhar por um email programado a atualização direta dessas devidas colet
 
 
 
-
-| Drama | 18 | 450 |
-| Horror | 22 | 400 |
-| ... | ... | ... |# PostgreSQL_Streaming
+|# PostgreSQL_Streaming
